@@ -1,6 +1,7 @@
 # pr-oligopool-generator-coli-dual-inverted
 
-<img width="940" height="372" alt="image" src="https://github.com/user-attachments/assets/9e0fa6eb-bc97-4d0e-9c22-0ada7f148e49" />
+<img width="940" height="372" alt="image" src="https://github.com/user-attachments/assets/4cb986d5-21aa-4709-a1e8-7181cda1b147" />
+
 
 Python tool for generating dual inverted promoter sequences from flow-seq data, with automated sequence design for synthesis.
 
