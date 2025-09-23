@@ -87,5 +87,5 @@ N_BINS = 8                    # Grid dimensions for 2D selection
 
 ---
 
-*Optimized for dual inverted promoter library construction with comprehensive quality control and synthesis readiness validation.*
+
 
