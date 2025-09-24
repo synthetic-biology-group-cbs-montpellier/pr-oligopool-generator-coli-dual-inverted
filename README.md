@@ -8,7 +8,7 @@ Python tool for generating dual inverted promoter sequences from flow-seq data, 
 
 ## Overview
 
-This script processes flow-seq data from Kosuri et al. 2012 to select two distinct sets of genetic constructs for generating dual inverted promoter-RBS architectures separated by a bidirectional terminator. It uses PCA clustering and 2D grid selection to minimize recombination risk while maximizing expression diversity.
+This script processes flow-seq data from Kosuri et al. (https://doi.org/10.1073/pnas.1301301110)  to select two distinct sets of genetic constructs for generating dual inverted promoter-RBS architectures separated by a bidirectional terminator. It uses PCA clustering and 2D grid selection to minimize recombination risk while maximizing expression diversity.
 
 ## Key Features
 
